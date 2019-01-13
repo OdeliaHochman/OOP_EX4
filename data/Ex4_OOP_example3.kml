@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style>
+<Folder>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>421.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042145607231335.207857850146350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20785785014635</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>421.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042145607231335.207857850146350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20785785014635</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>431.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1030255237767335.206991299893150.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20699129989315</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>421.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042145607231335.207857850146350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20785785014635</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>431.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1030255237767335.206991299893150.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20699129989315</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>441.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1031298252632535.2094637506155760.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209463750615576</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>421.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042145607231335.207857850146350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20785785014635</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>431.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1030255237767335.206991299893150.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20699129989315</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>441.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1031298252632535.2094637506155760.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209463750615576</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>B</name>
+<description>132.1049811766491</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.102702189168535.2081838002415850.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.208183800241585</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>381.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1045535405543435.209201400538920.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20920140053892</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>391.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042197757974535.2096227506620350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209622750662035</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>401.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042927868380235.209082150504080.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20908215050408</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>411.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1044805295137735.2074683000325240.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.207468300032524</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>421.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1042145607231335.207857850146350.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20785785014635</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>431.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1030255237767335.206991299893150.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.20699129989315</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>F</name>
+<description>441.0</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1031298252632535.2094637506155760.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.209463750615576</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>B</name>
+<description>132.1049811766491</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.102702189168535.2081838002415850.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.208183800241585</when>
+</TimeStamp>
+</Placemark>
+ <name>Wifi Networks</name>
+<Placemark>
+<name>B</name>
+<description>232.10395902208114</description>
+<styleUrl>#red</styleUrl><Point>
+<coordinates>32.1035470312093635.20565569950290.0</coordinates>
+</Point>
+<TimeStamp>
+<when>35.2056556995029</when>
+</TimeStamp>
+</Placemark>
+ </Folder>
+ </Document>
+</kml>

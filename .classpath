@@ -6,7 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/odelia/Desktop/מדעי המחשב/שנה ב/מונחה עצמים/מטלה 4/בועז-מעודכן/Ex4_OOP/Ex4_v0.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/odelia/Desktop/מדעי המחשב/שנה ב/מונחה עצמים/מטלה 4/בועז-מעודכן/Ex4_OOP/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="Graph_v0.11.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="Ex4_v0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
